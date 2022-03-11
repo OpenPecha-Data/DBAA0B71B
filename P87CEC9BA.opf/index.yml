@@ -1,11 +1,11 @@
-id: cb4cf533913b473abda08cfd3f59f09e
+id: ccf3153849e94110bd9a67dccfa7b3eb
 annotation_type: index
 revision: '00001'
 annotations:
-  56114e50a28d4a4e86838b6dd7f3f739:
+  8edfdc9cce324b988591d7477d26c7bb:
     parts: {}
     span:
     - vol: 60
-      start: 0
-      end: 53793
+      start: 1
+      end: 53532
     work_id: D3861x
